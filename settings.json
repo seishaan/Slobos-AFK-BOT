@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NoeVoid_SMP.aternos.me:34886",
+    "ip": "barramundi.aternos.host:34886",
     "port":  34886,
     "version": "1.21.1"
   },
